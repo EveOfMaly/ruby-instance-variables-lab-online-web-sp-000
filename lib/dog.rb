@@ -20,6 +20,7 @@ lassie.name = "Lassie"
 
 
 freddy = Dog.new
+freddy.name = "test"
 freddy.name
 
 
