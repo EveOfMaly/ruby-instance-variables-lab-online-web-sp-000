@@ -16,12 +16,14 @@ end
 lassie = Dog.new
 lassie.name = "Lassie"
 
-puts lassie.name
+
 
 
 freddy = Dog.new
 freddy.name
 
+
+puts freddy.name
 
 
 
