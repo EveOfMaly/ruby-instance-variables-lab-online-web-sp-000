@@ -19,12 +19,7 @@ lassie.name = "Lassie"
 
 
 
-freddy = Dog.new
-freddy.name = ("test")
-freddy.name
-
-
-puts freddy.name
+puts lassie.name
 
 
 
